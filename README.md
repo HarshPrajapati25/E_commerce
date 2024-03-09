@@ -1,7 +1,6 @@
 # E_commerce
 
-
-Tech Stack:
+🚀 Tech Stack 🚀
 
 NodeJS
 
