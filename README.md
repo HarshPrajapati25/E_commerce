@@ -3,9 +3,9 @@
 
 Tech Stack:
 
-NodeJS
-ExpressJS
-RestAPI
-MongoDB
-Payment:StripeAPI
+NodeJS \n
+ExpressJS \n
+RestAPI \n
+MongoDB \n
+Payment:StripeAPI \n
 Testing:POSTMAN
