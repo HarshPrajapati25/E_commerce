@@ -7,7 +7,7 @@
     "start": "app.js",
     "dev": "nodemon app.js"
   },
-  "author": "",
+  "author": "Harsh Prajapati",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
