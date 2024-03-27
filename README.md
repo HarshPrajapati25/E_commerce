@@ -3,7 +3,7 @@
 Welcome to our E-commerce Platform! Our goal is to provide a seamless shopping experience for customers while offering a robust backend infrastructure for sellers.
 
 ## 🚀 Tech Stack 🚀
-
+ 
 - **Node.js**: Backend runtime environment.
 - **Express.js**: Web application framework for Node.js, facilitating RESTful API development.
 - **MongoDB**: NoSQL database for storing product information, user data, and more.
