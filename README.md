@@ -8,7 +8,7 @@ Welcome to our E-commerce Platform! Our goal is to provide a seamless shopping e
 - **Express.js**: Web application framework for Node.js, facilitating RESTful API development.
 - **MongoDB**: NoSQL database for storing product information, user data, and more.
 - **Payment**: Stripe API integration for secure payment processing.
-- **Testing**: Postman for API testing and validation.
+- **Testing**: Postman for API testing and validation. 
 
 ## Features
 
